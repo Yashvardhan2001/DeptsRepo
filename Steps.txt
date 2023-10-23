@@ -1,0 +1,38 @@
+1)Create SpringBoot Project[46330796EmpolyeeProject-1].
+
+2)Add dependencies=
+	a)Web
+	b)JPA
+	c)Postgress
+
+3)Follow the Package Structure(dao,model,controller,service,repository).
+
+4)Add Dockerfile in your project.
+
+5)Publish to Github Repository using Initial Commit.
+
+6)Create Entity and Push to Git->Entity Class Commit.
+
+7)Create Dao and Push to Git->Dao Interface Commit.
+
+8)Create Repository and Push to Git->Repository Interface Commit.
+
+9)Create Service and Push to Git->Service Class Commit.
+
+10)Create Controller and Push to Git->Controller Class Commit.
+
+11)Change and add plugins in pom.xml.
+
+12)Create docker-compose.yml
+
+13)Take pull of Github repository in Docker Playground.
+
+14)Create Docker Image using Docker Build Command.
+
+15)Docker login
+
+16)Create Docker Repository in Docker Hub.
+
+17)Tag Image with Docker Repository.
+
+18)Push Image to  Docker Repositor.
